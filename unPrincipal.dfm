@@ -3,7 +3,7 @@ object frmPrincipal: TfrmPrincipal
   Top = 0
   BorderStyle = bsSizeToolWin
   Caption = 'Teste Programador Delphi MicroData - Vitor Faraux dos Santos'
-  ClientHeight = 355
+  ClientHeight = 85
   ClientWidth = 650
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -19,8 +19,8 @@ object frmPrincipal: TfrmPrincipal
     Left = 0
     Top = 0
     Width = 650
-    Height = 161
-    Align = alTop
+    Height = 85
+    Align = alClient
     Caption = 'Desafio Delphi'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
@@ -29,6 +29,7 @@ object frmPrincipal: TfrmPrincipal
     Font.Style = [fsBold]
     ParentFont = False
     TabOrder = 0
+    ExplicitHeight = 161
     object lbTempoRegressivo: TLabel
       Left = 178
       Top = 24
@@ -132,35 +133,6 @@ object frmPrincipal: TfrmPrincipal
       ParentFont = False
       TabOrder = 5
       OnClick = btnDesafio6Click
-    end
-  end
-  object gpDesafioSQL: TGroupBox
-    Left = 0
-    Top = 161
-    Width = 650
-    Height = 184
-    Align = alTop
-    Caption = 'Desafio SQL'
-    Font.Charset = DEFAULT_CHARSET
-    Font.Color = clWindowText
-    Font.Height = -16
-    Font.Name = 'Tahoma'
-    Font.Style = [fsBold]
-    ParentFont = False
-    TabOrder = 1
-    object btnSqlDesafio1: TButton
-      Left = 16
-      Top = 32
-      Width = 75
-      Height = 25
-      Caption = 'Desafio 1'
-      Font.Charset = DEFAULT_CHARSET
-      Font.Color = clWindowText
-      Font.Height = -13
-      Font.Name = 'Tahoma'
-      Font.Style = []
-      ParentFont = False
-      TabOrder = 0
     end
   end
   object Timer1: TTimer

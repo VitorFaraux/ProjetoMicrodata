@@ -9,7 +9,6 @@ uses
 type
   TfrmPrincipal = class(TForm)
     gpDesafioDelphi: TGroupBox;
-    gpDesafioSQL: TGroupBox;
     btnDesafio1: TButton;
     btnDesafio2: TButton;
     btnDesafio3: TButton;
@@ -18,7 +17,6 @@ type
     btnDesafio4: TButton;
     btnDesafio5: TButton;
     btnDesafio6: TButton;
-    btnSqlDesafio1: TButton;
     procedure btnDesafio1Click(Sender: TObject);
     procedure btnDesafio2Click(Sender: TObject);
     procedure btnDesafio3Click(Sender: TObject);
