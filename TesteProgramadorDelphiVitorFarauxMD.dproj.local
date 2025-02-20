@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/24 11:01:29.000.901,=C:\Users\vitor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/24 11:14:17.000.782,=C:\Users\vitor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/24 14:08:18.000.097,=C:\Users\vitor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 18:19:30.766,=C:\Users\vitor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/02/19 18:21:09.902,C:\Teste Programador Delphi - Microdata\unPrincipal.pas=C:\Users\vitor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/02/19 18:21:09.902,C:\Teste Programador Delphi - Microdata\unPrincipal.dfm=C:\Users\vitor\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2025/02/19 18:21:46.038,C:\Teste Programador Delphi - Microdata\TesteProgramadorDelphiVitorFarauxMD.dproj=C:\Users\vitor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/02/19 18:30:18.527,=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 18:30:44.251,C:\Teste Programador Delphi - Microdata\unDelphiDesafio1.pas=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 18:30:44.251,C:\Teste Programador Delphi - Microdata\unDelphiDesafio1.dfm=C:\Teste Programador Delphi - Microdata\Unit1.dfm</Transaction>
+    <Transaction>2025/02/19 21:37:30.950,=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 21:38:03.448,C:\Teste Programador Delphi - Microdata\unDelphiDesafio2.dfm=C:\Teste Programador Delphi - Microdata\Unit1.dfm</Transaction>
+    <Transaction>2025/02/19 21:38:03.448,C:\Teste Programador Delphi - Microdata\unDelphiDesafio2.pas=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 22:32:55.415,=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 22:33:52.708,C:\Teste Programador Delphi - Microdata\unClassePessoa.pas=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 22:46:51.544,=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 22:47:07.426,C:\Teste Programador Delphi - Microdata\unDelphiDesafio4.dfm=C:\Teste Programador Delphi - Microdata\Unit1.dfm</Transaction>
+    <Transaction>2025/02/19 22:47:07.426,C:\Teste Programador Delphi - Microdata\unDelphiDesafio4.pas=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 23:40:00.290,=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 23:40:12.690,C:\Teste Programador Delphi - Microdata\unDelphiDesafio5.pas=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 23:40:12.690,C:\Teste Programador Delphi - Microdata\unDelphiDesafio5.dfm=C:\Teste Programador Delphi - Microdata\Unit1.dfm</Transaction>
+    <Transaction>2025/02/20 06:54:48.314,=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/20 06:55:04.146,C:\Teste Programador Delphi - Microdata\unDelphiDesafio6.pas=C:\Teste Programador Delphi - Microdata\Unit1.pas</Transaction>
+    <Transaction>2025/02/20 06:55:04.146,C:\Teste Programador Delphi - Microdata\unDelphiDesafio6.dfm=C:\Teste Programador Delphi - Microdata\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
